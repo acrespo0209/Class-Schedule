@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+    <style type="text/css">
+    tb{
+      color:blue;
+    }
+		<title> Anthony Crespo's Bio </title>
+	</head>
+	
+		<body>
+		
+			<h1 id="heading"> Welcome to My Bio! </h1>
+			
+			<br>
+				<p class="text"> Some of my hobbies include going to the gym, 
+				playing video games, and watching sports (Go Eagles!) </p>
+			<br>
+			<p> I am excited for this course as I love making websites and seeing the final outcome. </p>
+			<hr> </hr>
+			<div>
+				<a href="https://www.philadelphiaeagles.com">GO BIRDS!</a>
+			<br>
+			<img src="new.jpg" />
+			</div>
+		
+			<h2>Class List Table</h2>
+			<table border=1px>
+				<thead>
+					<tr>
+						<th>Monday</th>
+						<th>Tuesday</th>
+						<th>Wednesday</th>
+            <th>Thursday</th>
+            <th>Friday</th>
+					</tr>
+				</thead>
+			<tbody>
+				<tr>
+					<td>IST440W 6-9PM</td>
+					<td>IST256 6-9PM</td>
+					<td>NOTHING</td>
+          <td>IST331 12:05PM-1:20PM</td>
+          <td>NOTHING</td>
+				</tr>
+</html>
